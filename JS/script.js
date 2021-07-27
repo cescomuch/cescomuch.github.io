@@ -4,7 +4,7 @@
         hour = minute * 60,
         day = hour * 24;
 
-  let dott = "Jul 18, 2021 14:00:00",
+  let dott = "Aug 18, 2021 14:00:00",
       countDown = new Date(dott).getTime(),
       x = setInterval(function() {    
 
